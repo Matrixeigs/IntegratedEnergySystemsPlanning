@@ -10,3 +10,25 @@ matrixeigs@gmail.com
 
 ## 1. Information Models
 The information models include the following equipment.
+### A. Building systems
+#### 1) 
+#### 2)
+#### 3)
+
+### B. Energy storage systems
+
+### C. Microgrids
+
+### D. Distribution systems
+
+### E. Electric charging infrastructure
+
+
+## 2. Integrated planning problem
+
+## 3. Economic assessment
+
+
+## 4. Reliability assessment
+
+
